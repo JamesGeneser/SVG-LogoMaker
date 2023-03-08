@@ -1,0 +1,3 @@
+1.) inquirer prompts user to answer questions about their logo
+2.) shapes and text is generated based on user response
+3.) logos are tested against user response parameters(expect(shape.render()).toEqual("shape code"))
